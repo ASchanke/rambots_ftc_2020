@@ -1,13 +1,20 @@
 //
 // build.gradle in FtcRobotController
 //
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2a92ac027af6afb3e9ab7981cd1c6ad1281baa20
 apply plugin: 'com.android.library'
 
 android {
 
     defaultConfig {
+<<<<<<< HEAD
         minSdkVersion 21
+=======
+        minSdkVersion 19
+>>>>>>> 2a92ac027af6afb3e9ab7981cd1c6ad1281baa20
         targetSdkVersion 26
     }
 
@@ -19,7 +26,10 @@ android {
     }
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2a92ac027af6afb3e9ab7981cd1c6ad1281baa20
 repositories {
     flatDir {
         dirs '../libs'

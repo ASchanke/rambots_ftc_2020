@@ -10,6 +10,7 @@
 
 
 // Custom definitions may go here
+<<<<<<< HEAD
 apply plugin: 'com.android.application'
 
 
@@ -26,6 +27,8 @@ apply plugin: 'com.android.application'
 dependencies {
 //    implementation project(':OpenCV')
 }
+=======
+>>>>>>> 2a92ac027af6afb3e9ab7981cd1c6ad1281baa20
 
 // Include common definitions from above.
 apply from: '../build.common.gradle'

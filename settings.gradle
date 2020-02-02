@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 include ':FtcRobotController', ':OpenCV'
+=======
+include ':FtcRobotController'
+>>>>>>> 2a92ac027af6afb3e9ab7981cd1c6ad1281baa20
 include ':TeamCode'
